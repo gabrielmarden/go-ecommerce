@@ -9,5 +9,5 @@ This project represent a small eccommerce website where we have a few functional
 go run main.go
 ```
 
-#Backend details
+# Backend details
 This whole project was developed using Go and Postgres to store data
